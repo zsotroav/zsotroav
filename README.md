@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, Welcome to zsotroav's GitHub</h1>
+<h3 align="center">I am a student testing all sorts of programming languages.</h3>
 
-<!--
-**zsotroav/zsotroav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **personal and community projects**
+- 🌱 I’m currently looking into **different programming languages and environments**
+- 📫 How to reach me: [Discord DMs](https://discord.com/users/389315198391025666)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: As a student I still don't have a preferred programming language and because of this, I can easily adopt to most languages.
+- 💬 Languages: English (Advanced level, C1) and Hungarian (Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Widgets</h2>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsotroav&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zsotroav&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zsotroav&theme=dark" alt="Current Streak" /></p>
