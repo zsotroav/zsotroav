@@ -15,5 +15,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsotroav&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zsotroav&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zsotroav&theme=dark" alt="Current Streak" /></p>
