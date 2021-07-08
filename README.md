@@ -12,6 +12,6 @@
 
 <h2>Widgets</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsotroav&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" /></p>
+<p><img align="center" src="https://github-readme-stats-zsotroav.vercel.app/api/top-langs?username=zsotroav&show_icons=true&theme=radical&locale=en&layout=compact" alt="Most Used Languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zsotroav&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats-zsotroav.vercel.app/api?username=zsotroav&show_icons=true&theme=radical&locale=en&count_private=true" alt="GitHub Stats" /></p>
