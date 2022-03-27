@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Welcome to zsotroav's GitHub profile</h1>
 
-I am a student testing all sorts of programming languages and creating random projects in my freetime. I ocasionally work on private comissions or help out in open source projects.
+I am a student messing around with all sorts of random projects in (mostly) my free time. I occasionally work on private commissions or help out in open source projects.
 
 <h2>About me</h2>
 
