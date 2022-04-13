@@ -6,7 +6,7 @@ I am a student messing around with all sorts of random projects in (mostly) my f
 
 - 🔭 I’m currently working on **personal and community projects**
 - 🌱 I’m currently looking into **different programming languages and environments**
-- 📫 How to reach me: [Discord DMs](https://discord.com/users/389315198391025666)
+- 📫 How to reach me: Discord [DMs](https://discord.com/users/389315198391025666) or [communications server](https://discord.gg/dMrwaAkEcv)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I mostly code in C# (.NET), but I can easily adapt to most languages.
 - 💬 Languages: English (Advanced level, C1) and Hungarian (Native)
