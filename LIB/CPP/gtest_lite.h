@@ -2,7 +2,7 @@
 #define GTEST_LITE_H
 
 /**
- * \file gtest_lite.h  (v4/2022)
+ * \file gtest_lite.h  (v5/2024)
  *
  * Google gtest keretrendszerhez hasonló rendszer.
  * Sz.I. 2015., 2016., 2017. (_Has_X)
@@ -12,6 +12,7 @@
  * Sz.I. 2021 EXPEXT_REGEXP, CREATE_Has_fn_, cmp w. NULL, EXPECT_ param fix
  * V.B., Sz.I. 2022 almostEQ fix,
  * Sz.I. 2022. EXPECT_THROW fix
+ * Sz.I. 2024. EXPECT_ pred param fix
  *
  * A tesztelés legalapvetőbb funkcióit támogató függvények és makrók.
  * Nem szálbiztos megvalósítás.
@@ -342,7 +343,7 @@ static Test& test = Test::getTest();
 
 /// általános sablon a várt értékhez.
 template <typename T1, typename T2>
-std::ostream& EXPECT_(T1 exp, T2 act, bool (*pred)(T1, T1), const char *file, int line,
+std::ostream& EXPECT_(T1 exp, T2 act, bool (*pred)(T1, T2), const char *file, int line,
                       const char *expr, const char *lhs = "elvart", const char *rhs = "aktual") {
     return test.expect(pred(exp, act), file, line, expr)
         << "** " << lhs << ": " << std::boolalpha << exp
